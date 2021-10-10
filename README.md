@@ -1,4 +1,4 @@
-# ✨ Happy House ( 🏆 [1학기 프로젝트 우수상](https://github.com/SUHYEOK97/HappyHouse_Vue/wiki) )
+# ✨ Happy House ( 🏆 1학기 프로젝트 우수상 )
 * 사용자입장에서 원하는 아파트매물 거래 정보를 제공합니다. 
 * 아파트 거래 기록 외의 정보를 추가적으로 제공합니다.
 
